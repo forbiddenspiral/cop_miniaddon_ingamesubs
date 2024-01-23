@@ -1,3 +1,4 @@
+# Project files
 .vscode
 COP-MAIN-PROJECT.code-workspace
 Copy-COP.ps1
@@ -5,13 +6,7 @@ NOTES.md
 Run-COP.ps1
 Unset-Read-Only.ps1
 
-# gamedata/configs/text/eng/st_subtitles.xml
+# Debugging files
 gamedata/scripts/_g.script
-# gamedata/scripts/lua_help.script
-# gamedata/scripts/news_manager.script
 gamedata/scripts/show_on_hud.script
 gamedata/scripts/ui_main_menu.script
-# gamedata/scripts/spawn_equipment.script
-
-# gamedata/scripts/sound_theme.script
-# gamedata/scripts/xr_sounds.script
