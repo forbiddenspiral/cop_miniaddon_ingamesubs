@@ -231,7 +231,7 @@ function npc_sound:play(npc_id, faction, point, msg)
 	end
 
 	if closecaption then
-		-- closecaption.cc_display_npcsnd(snd_st)
+		closecaption.cc_display_npcsnd(snd_st)
 	end
 
 	if game.translate_string(snd_st) ~= snd_st then
@@ -458,7 +458,7 @@ function actor_sound:play(npc, faction, point, msg)
 	self.can_play_sound = false
 
 	if closecaption then
-		-- closecaption.cc_display_sndpath(snd)
+		closecaption.cc_display_sndpath(snd)
 	end
 
 	news_manager.send_sound(nil, faction, point, snd)
@@ -646,7 +646,7 @@ function object_sound:play(obj_id, faction, point, msg)
 	self.can_play_sound = false
 
 	if closecaption then
-		-- closecaption.cc_display_sndpath(snd, obj)
+		closecaption.cc_display_sndpath(snd, obj)
 	end
 
 	news_manager.send_sound(nil, faction, point, snd)
