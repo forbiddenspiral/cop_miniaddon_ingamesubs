@@ -6,6 +6,7 @@ Run-COP.ps1
 Unset-Read-Only.ps1
 
 # gamedata/configs/text/eng/st_subtitles.xml
+gamedata/scripts/_g.script
 # gamedata/scripts/lua_help.script
 # gamedata/scripts/news_manager.script
 gamedata/scripts/show_on_hud.script
