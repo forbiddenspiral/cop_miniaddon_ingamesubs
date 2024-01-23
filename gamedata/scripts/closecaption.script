@@ -12,6 +12,7 @@ tips_icons =
 {
 	zat_stalker_actor_name									=	"ui_inGame2_Hero",
 	zat_a2_stalker_barmen_name							=	"ui_inGame2_Boroda",
+	temporal_icon														= "ui_inGame2_Zombied_4",
 }
 
 --id																											=	{showtime}
