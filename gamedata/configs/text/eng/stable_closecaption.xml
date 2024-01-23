@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!-- UI STRINGS FOR SUBS -->
+<string_table>
+	<!-- Sounds by mob_snds -->
+	<!-- ZATON -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- JUPITER -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- JUPITER_UNDERGROUND -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- PRIPYAT -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- LABX8 -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- PLACEHOLDER -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+</string_table>
