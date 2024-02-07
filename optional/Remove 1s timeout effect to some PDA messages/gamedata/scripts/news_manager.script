@@ -166,7 +166,7 @@ function send_sound(npc, faction, point, str, str2, delay_sound)
 
 --		db.actor:give_game_news(news_caption, news_text, texture, 1000, 5000)
 --		give_game_news(LPCSTR caption, LPCSTR news, LPCSTR texture_name, int delay, int show_time)
-		db.actor:give_game_news(news_caption, news_text, texture, delay_sound+1000, 5000, 1)
+		db.actor:give_game_news(news_caption, news_text, texture, delay_sound+0, 5000, 1)
 
 		return true
 
