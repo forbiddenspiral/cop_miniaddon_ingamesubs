@@ -16,6 +16,21 @@
         <widescreen_rect width="1024" height="768"/>
         <texture width="638" height="358">intro\video_talk_with_ssu</texture>
     	</auto_static>
+			<auto_static  start_time="0" length_sec="10" x="500" y="870" width="870" height="500" alignment="c" stretch="1" light_anim="pri_a28_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" r="225" g="225" b="225" a="255">characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_2</text>
+			</auto_static>
+			<auto_static  start_time="12" length_sec="14" x="500" y="870" width="870" height="500" alignment="c" stretch="1" light_anim="pri_a28_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" r="225" g="225" b="225" a="255">characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_2</text>
+			</auto_static>
+			<auto_static  start_time="27" length_sec="7" x="500" y="870" width="870" height="500" alignment="c" stretch="1" light_anim="pri_a28_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" r="225" g="225" b="225" a="255">characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_3</text>
+			</auto_static>
+			<auto_static  start_time="34" length_sec="14" x="500" y="870" width="870" height="500" alignment="c" stretch="1" light_anim="pri_a28_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" r="225" g="225" b="225" a="255">characters_voice_scenario_pripyat_pri_a28_actor_to_ssu_with_heli_info</text>
+			</auto_static>
+			<auto_static  start_time="48" length_sec="14" x="500" y="870" width="870" height="500" alignment="c" stretch="1" light_anim="pri_a28_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+				<text align="c" font="graffiti22" r="225" g="225" b="225" a="255">characters_voice_scenario_pripyat_pri_a28_ssu_to_actor_5</text>
+			</auto_static>
 		</main_wnd>
 	</item>
 	</talk_ssu>
