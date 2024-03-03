@@ -3,7 +3,7 @@
 COP-MAIN-PROJECT.code-workspace
 Copy-COP.ps1
 NOTES.md
-Release.ps1
+# Release.ps1
 Run-COP.ps1
 Unset-Read-Only.ps1
 
